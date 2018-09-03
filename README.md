@@ -1,4 +1,4 @@
-# Introduction to Python, March 2018 Edition
+# Introduction to Python, September 2018 Edition
 
 This Python Beginner's workshop will be running from 4 pm to 8 pm on Tuesday the 4th of September, and Thursday the 6th of September, at the CoLab training space, also known as Room 329, Level 3, Eastern Resource Centre, Building 171. Enter at the glass doors next to the Resource cafe, head to the back of the lobby (keep the ERC library entrance on your left) and enter at back right.
 
